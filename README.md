@@ -7,3 +7,4 @@ https://stackoverflow.com/questions/56704699/why-is-matplotlib-plotkind-bar-plot
 https://stackoverflow.com/questions/22356881/using-a-pandas-dataframe-index-as-values-for-x-axis-in-matplotlib-plot
 https://www.geeksforgeeks.org/how-to-create-pie-chart-from-pandas-dataframe/#
 https://www.w3schools.com/python/pandas/ref_df_last.asp
+https://stackoverflow.com/questions/33417991/pandas-why-are-double-brackets-needed-to-select-column-after-boolean-indexing
