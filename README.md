@@ -8,3 +8,4 @@ https://stackoverflow.com/questions/22356881/using-a-pandas-dataframe-index-as-v
 https://www.geeksforgeeks.org/how-to-create-pie-chart-from-pandas-dataframe/#
 https://www.w3schools.com/python/pandas/ref_df_last.asp
 https://stackoverflow.com/questions/33417991/pandas-why-are-double-brackets-needed-to-select-column-after-boolean-indexing
+https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html
